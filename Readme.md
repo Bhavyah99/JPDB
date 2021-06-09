@@ -1,4 +1,4 @@
-**MINI PROJECT-CREATING WEB FORM AND CONNECTING IT TO JsonPowerDB (JPDB)**
+**MINI PROJECT-CREATING WEB FORM AND CONNECTING IT TO JSONPOWERDB (JPDB)**
 
  
 
@@ -43,12 +43,11 @@ Today 16:19:24	Local
 
  **Fig 3 - Filling the form**                                         
 
-![image-20210609192515400](C:\Users\ramga\AppData\Roaming\Typora\typora-user-images\image-20210609192515400.png)
-
+![image](https://user-images.githubusercontent.com/52777289/121370287-3d713100-c95a-11eb-9dbc-93e97596ba46.png)
                                                                      
 **Fig 4 - Gives Alert Message**
 
-![image](https://user-images.githubusercontent.com/52777289/121370287-3d713100-c95a-11eb-9dbc-93e97596ba46.png)
+![image](https://user-images.githubusercontent.com/52777289/121370800-a3f64f00-c95a-11eb-9a09-81d269f905fa.png)
 
 
  **Fig 5 - Data Successfully inserted in JsonPowerDB**                                                             

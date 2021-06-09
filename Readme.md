@@ -31,20 +31,28 @@ Today 16:19:24	Local
 
 **SCREENSHOTS**
 
-                                                     **Fig 1 - JsonPowerDB Dashboard**
+**Fig 1 - JsonPowerDB Dashboard**
 
-![image-20210609192331683](C:\Users\ramga\AppData\Roaming\Typora\typora-user-images\image-20210609192331683.png)
+![image](https://user-images.githubusercontent.com/52777289/121369728-bb810800-c959-11eb-8511-74053acdce4e.png)
 
-​                                             **Fig 2 - Visualising JsonPower DB for Student Database**
+                                                     
+ **Fig 2 - Visualising JsonPower DB for Student Database**
+ 
+![image](https://user-images.githubusercontent.com/52777289/121370211-27637080-c95a-11eb-9fa3-77f87e2fe18e.png)
+
+
+ **Fig 3 - Filling the form**                                         
 
 ![image-20210609192515400](C:\Users\ramga\AppData\Roaming\Typora\typora-user-images\image-20210609192515400.png)
 
-​                                                                       **Fig 3 - Filling the form**
+                                                                     
+**Fig 4 - Gives Alert Message**
 
-![image-20210609192624307](C:\Users\ramga\AppData\Roaming\Typora\typora-user-images\image-20210609192624307.png)
+![image](https://user-images.githubusercontent.com/52777289/121370287-3d713100-c95a-11eb-9dbc-93e97596ba46.png)
 
-​                                                                 **Fig 4 - Gives Alert Message**
 
-![image](https://user-images.githubusercontent.com/52777289/121369450-7d83e400-c959-11eb-902c-c36a3fc1feaf.png)
+ **Fig 5 - Data Successfully inserted in JsonPowerDB**                                                             
 
-​                                              **Fig 5 - Data Successfully inserted in JsonPowerDB**
+![image](https://user-images.githubusercontent.com/52777289/121370314-44983f00-c95a-11eb-9b03-8ab2d28d6c21.png)
+
+                                          

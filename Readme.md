@@ -31,7 +31,7 @@ Today 16:19:24	Local
 
 **SCREENSHOTS**
 
-![image-20210609192139830](C:\Users\ramga\AppData\Roaming\Typora\typora-user-images\image-20210609192139830.png)	                                                        **Fig 1 - JsonPowerDB Dashboard**
+                                                     **Fig 1 - JsonPowerDB Dashboard**
 
 ![image-20210609192331683](C:\Users\ramga\AppData\Roaming\Typora\typora-user-images\image-20210609192331683.png)
 
@@ -45,6 +45,6 @@ Today 16:19:24	Local
 
 ​                                                                 **Fig 4 - Gives Alert Message**
 
-![image-20210609192904206](C:\Users\ramga\AppData\Roaming\Typora\typora-user-images\image-20210609192904206.png)
+![image](https://user-images.githubusercontent.com/52777289/121369450-7d83e400-c959-11eb-902c-c36a3fc1feaf.png)
 
 ​                                              **Fig 5 - Data Successfully inserted in JsonPowerDB**
